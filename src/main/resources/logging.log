@@ -1,0 +1,446 @@
+2018-10-06 23:26:29 INFO  TaxiStation:16 - method calcCost
+2018-10-06 23:29:38 INFO  TaxiStation:17 - method calcCost
+2018-10-06 23:29:38 INFO  TaxiStation:25 - Collection is empty
+2018-10-06 23:32:04 INFO  TaxiStation:17 - method calcCost
+2018-10-06 23:32:04 INFO  TaxiStation:21 - cycle
+2018-10-06 23:32:04 INFO  TaxiStation:21 - cycle
+2018-10-06 23:32:04 INFO  TaxiStation:21 - cycle
+2018-10-06 23:33:25 INFO  TaxiStation:17 - method calcCost
+2018-10-06 23:35:52 INFO  TaxiStation:17 - method calcCost
+2018-10-06 23:35:52 TRACE TaxiStation:21 - cycle in calcCost
+2018-10-06 23:35:52 TRACE TaxiStation:21 - cycle in calcCost
+2018-10-06 23:35:52 TRACE TaxiStation:21 - cycle in calcCost
+2018-10-06 23:48:16 INFO  TaxiStation:18 - method calcCost
+2018-10-06 23:48:16 TRACE TaxiStation:22 - cycle in calcCost
+2018-10-06 23:48:16 TRACE TaxiStation:22 - cycle in calcCost
+2018-10-06 23:48:16 TRACE TaxiStation:22 - cycle in calcCost
+2018-10-09 23:53:14 INFO  TaxiStation:19 - method calcCost
+2018-10-09 23:53:14 TRACE TaxiStation:23 - cycle in calcCost
+2018-10-09 23:53:14 TRACE TaxiStation:23 - cycle in calcCost
+2018-10-09 23:53:14 TRACE TaxiStation:23 - cycle in calcCost
+2018-10-09 23:53:14 INFO  TaxiStation:36 - method SearchBySpeed
+2018-10-09 23:54:45 INFO  TaxiStation:20 - method calcCost
+2018-10-09 23:54:45 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:54:45 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:54:45 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:54:45 INFO  TaxiStation:37 - method SearchBySpeed
+2018-10-09 23:54:45 TRACE TaxiStation:41 - add car by speed
+2018-10-09 23:54:45 TRACE TaxiStation:41 - add car by speed
+2018-10-09 23:55:50 INFO  TaxiStation:20 - method calcCost
+2018-10-09 23:55:50 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:55:50 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:55:50 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:55:50 INFO  TaxiStation:37 - method SearchBySpeed
+2018-10-09 23:55:50 TRACE TaxiStation:41 - add car by speed
+2018-10-09 23:55:50 TRACE TaxiStation:41 - add car by speed
+2018-10-09 23:56:16 INFO  TaxiStation:20 - method calcCost
+2018-10-09 23:56:16 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:56:16 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:56:16 TRACE TaxiStation:24 - cycle in calcCost
+2018-10-09 23:56:16 INFO  TaxiStation:37 - method SearchBySpeed
+2018-10-09 23:56:16 TRACE TaxiStation:41 - add car by speed
+2018-10-09 23:56:16 TRACE TaxiStation:41 - add car by speed
+2018-10-10 00:03:55 INFO  TaxiStation:19 - method calcCost
+2018-10-10 00:03:55 TRACE TaxiStation:23 - cycle in calcCost
+2018-10-10 00:03:55 TRACE TaxiStation:23 - cycle in calcCost
+2018-10-10 00:03:55 TRACE TaxiStation:23 - cycle in calcCost
+2018-10-10 00:03:55 INFO  TaxiStation:36 - method SearchBySpeed
+2018-10-10 00:03:55 TRACE TaxiStation:40 - add car by speed
+2018-10-10 00:03:55 TRACE TaxiStation:40 - add car by speed
+2018-10-10 11:11:44 INFO  TaxiStation:22 - begin method calcCost
+2018-10-10 11:11:44 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:11:44 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:11:44 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:11:44 INFO  TaxiStation:34 - end method calcCost
+2018-10-10 11:11:44 INFO  TaxiStation:39 - begin method SearchBySpeed
+2018-10-10 11:11:44 TRACE TaxiStation:45 - add car by speed
+2018-10-10 11:11:44 TRACE TaxiStation:45 - add car by speed
+2018-10-10 11:11:44 INFO  TaxiStation:48 - end method SearchBySpeed
+2018-10-10 11:11:44 INFO  TaxiStation:53 - begin method SortByFuelConsumption
+2018-10-10 11:11:44 TRACE TaxiStation:63 - add car in fuel car
+2018-10-10 11:11:44 TRACE TaxiStation:63 - add car in fuel car
+2018-10-10 11:11:44 TRACE TaxiStation:59 - add car in electric car
+2018-10-10 11:11:44 INFO  TaxiStation:74 - end method SortByFuelConsumption
+2018-10-10 11:13:20 INFO  TaxiStation:22 - {begin method calcCost
+2018-10-10 11:13:20 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:13:20 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:13:20 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:13:20 INFO  TaxiStation:34 - end method calcCost}
+2018-10-10 11:13:20 INFO  TaxiStation:39 - begin method SearchBySpeed
+2018-10-10 11:13:20 TRACE TaxiStation:45 - add car by speed
+2018-10-10 11:13:20 TRACE TaxiStation:45 - add car by speed
+2018-10-10 11:13:20 INFO  TaxiStation:48 - end method SearchBySpeed
+2018-10-10 11:13:20 INFO  TaxiStation:53 - begin method SortByFuelConsumption
+2018-10-10 11:13:20 TRACE TaxiStation:63 - add car in fuel car
+2018-10-10 11:13:20 TRACE TaxiStation:63 - add car in fuel car
+2018-10-10 11:13:20 TRACE TaxiStation:59 - add car in electric car
+2018-10-10 11:13:20 INFO  TaxiStation:74 - end method SortByFuelConsumption
+2018-10-10 11:21:42 INFO  TaxiStation:22 - {begin method calcCost
+2018-10-10 11:21:42 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:21:42 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:21:42 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 11:21:42 INFO  TaxiStation:34 - end method calcCost}
+2018-10-10 11:21:42 INFO  TaxiStation:39 - {begin method SearchBySpeed
+2018-10-10 11:21:42 TRACE TaxiStation:45 - add car by speed
+2018-10-10 11:21:42 TRACE TaxiStation:45 - add car by speed
+2018-10-10 11:21:42 INFO  TaxiStation:48 - end method SearchBySpeed}
+2018-10-10 11:21:42 INFO  TaxiStation:53 - {begin method SortByFuelConsumption
+2018-10-10 11:21:42 TRACE TaxiStation:63 - add car in fuel car
+2018-10-10 11:21:42 TRACE TaxiStation:63 - add car in fuel car
+2018-10-10 11:21:42 TRACE TaxiStation:59 - add car in electric car
+2018-10-10 11:21:42 INFO  TaxiStation:78 - end method SortByFuelConsumption}
+2018-10-10 23:17:16 INFO  TaxiStation:22 - {begin method calcCost
+2018-10-10 23:17:16 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 23:17:16 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 23:17:16 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 23:17:16 INFO  TaxiStation:34 - end method calcCost}
+2018-10-10 23:17:54 INFO  TaxiStation:22 - {begin method calcCost
+2018-10-10 23:17:54 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 23:17:54 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 23:17:54 TRACE TaxiStation:26 - calculate price in calcCost method
+2018-10-10 23:17:54 INFO  TaxiStation:34 - end method calcCost}
+2018-10-11 00:22:48 INFO  TaxiStation:53 - {begin method SortByFuelConsumption
+2018-10-11 00:22:48 TRACE TaxiStation:63 - add car in fuel car
+2018-10-11 00:22:48 TRACE TaxiStation:59 - add car in electric car
+2018-10-11 00:22:48 INFO  TaxiStation:78 - end method SortByFuelConsumption}
+2018-10-11 00:30:22 INFO  TaxiStation:39 - {begin method SearchBySpeed
+2018-10-11 00:30:22 TRACE TaxiStation:45 - add car by speed
+2018-10-11 00:30:22 TRACE TaxiStation:45 - add car by speed
+2018-10-11 00:30:22 INFO  TaxiStation:48 - end method SearchBySpeed}
+2018-10-11 00:31:51 INFO  TaxiStation:39 - {begin method SearchBySpeed
+2018-10-11 00:31:51 TRACE TaxiStation:45 - add car by speed
+2018-10-11 00:31:51 TRACE TaxiStation:45 - add car by speed
+2018-10-11 00:31:51 INFO  TaxiStation:48 - end method SearchBySpeed}
+2018-10-11 00:32:23 INFO  TaxiStation:39 - {begin method SearchBySpeed
+2018-10-11 00:32:23 TRACE TaxiStation:45 - add car by speed
+2018-10-11 00:32:23 TRACE TaxiStation:45 - add car by speed
+2018-10-11 00:32:23 INFO  TaxiStation:48 - end method SearchBySpeed}
+2018-10-13 21:15:07 INFO  TaxiStation:65 - {begin method SortByFuelConsumption
+2018-10-13 21:15:07 TRACE TaxiStation:71 - add car in electric car
+2018-10-13 21:15:07 TRACE TaxiStation:71 - add car in electric car
+2018-10-13 21:15:07 INFO  TaxiStation:90 - end method SortByFuelConsumption}
+2018-10-13 21:28:06 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-13 21:28:06 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:28:06 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:28:06 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:28:06 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:28:06 INFO  TaxiStation:38 - end method calcCost}
+2018-10-13 21:36:31 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-13 21:36:31 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:36:31 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:36:31 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:36:31 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-13 21:36:31 INFO  TaxiStation:38 - end method calcCost}
+2018-10-13 22:17:34 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-13 22:17:34 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:17:34 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:17:34 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:17:34 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:17:34 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-13 22:18:13 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-13 22:18:13 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:18:13 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:18:13 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:18:13 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:18:13 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-13 22:25:24 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-13 22:25:24 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:25:24 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:25:24 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:25:24 TRACE TaxiStation:53 - add car by speed
+2018-10-13 22:25:24 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-13 22:25:24 INFO  TaxiStationTests:25 - after check 1 car
+2018-10-21 17:13:36 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 17:13:36 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:13:36 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:13:36 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:13:36 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:13:36 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:13:36 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:13:36 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 17:13:36 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 17:13:36 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:13:36 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:13:36 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 17:14:15 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 17:14:15 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:15 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:15 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:15 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:15 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:15 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:15 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 17:14:15 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 17:14:15 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:14:15 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:14:15 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 17:14:51 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 17:14:51 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:51 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:51 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:51 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:51 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:51 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:14:51 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 17:15:07 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 17:15:07 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:15:07 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:15:07 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:15:07 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:15:07 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:15:07 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:15:07 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 17:15:07 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 17:15:07 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:15:07 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:15:07 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 17:20:41 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 17:20:41 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:20:41 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:20:41 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:20:41 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:20:41 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:20:41 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:20:41 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 17:20:41 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 17:20:41 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:20:41 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:20:41 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:20:41 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:20:41 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 17:21:09 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 17:21:09 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:21:09 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:21:09 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:21:09 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:21:09 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:21:09 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 17:21:09 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 17:21:09 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 17:21:09 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:21:09 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:21:09 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:21:09 TRACE TaxiStation:53 - add car by speed
+2018-10-21 17:21:09 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 19:41:04 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:04 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:04 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:04 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:12 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:12 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:12 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:12 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:16 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:16 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:16 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 19:41:16 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:41:16 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:41:16 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:41:16 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:41:16 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:41:16 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:41:16 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 19:41:16 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:16 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:16 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:41:16 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:41:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:41:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:41:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:41:16 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 19:41:16 TRACE TaxiStation:53 - add car by speed
+2018-10-21 19:41:16 TRACE TaxiStation:53 - add car by speed
+2018-10-21 19:41:16 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 19:45:00 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:45:00 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:45:00 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:45:00 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:45:00 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:45:00 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:45:00 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:45:00 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:45:00 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:45:00 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:45:00 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:45:00 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:45:00 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 19:45:00 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:45:00 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:45:00 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:45:00 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:45:00 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:45:00 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:45:00 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 19:46:29 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:46:29 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:46:29 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:46:29 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:46:29 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:46:29 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:46:29 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:46:29 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:46:29 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:46:29 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:46:29 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:46:29 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:46:29 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 19:46:29 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:46:29 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:46:29 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:46:29 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:46:29 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:46:29 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:46:29 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 19:53:53 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:53:53 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:53:53 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:53:53 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:53:53 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:53:53 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:53:53 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 19:53:53 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:53:53 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 19:53:53 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:53:53 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 19:53:53 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:53:53 INFO  TaxiStation:26 - {begin method calcCost
+2018-10-21 19:53:53 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:53:53 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:53:53 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:53:53 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:53:53 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:53:53 TRACE TaxiStation:30 - calculate price in calcCost method
+2018-10-21 19:53:53 INFO  TaxiStation:38 - end method calcCost}
+2018-10-21 19:53:53 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:53:53 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:53:53 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:53:53 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:53:53 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:53:53 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:53:53 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 19:53:53 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:53:53 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 19:53:53 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:53:53 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 19:53:53 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:53:53 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 19:53:53 TRACE TaxiStation:53 - add car by speed
+2018-10-21 19:53:53 TRACE TaxiStation:53 - add car by speed
+2018-10-21 19:53:53 TRACE TaxiStation:53 - add car by speed
+2018-10-21 19:53:53 TRACE TaxiStation:53 - add car by speed
+2018-10-21 19:53:53 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 19:54:03 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 19:54:03 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 19:54:03 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 19:54:03 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 19:54:04 INFO  FuelCarBuilder:78 - create new FuelCar
