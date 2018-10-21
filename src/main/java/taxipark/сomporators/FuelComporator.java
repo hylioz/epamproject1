@@ -1,6 +1,6 @@
-package TaxiPark.Comporators;
+package taxipark.сomporators;
 
-import Enums.SortEnum;
+import enums.SortEnum;
 import entities.FuelCar;
 
 import java.util.Comparator;

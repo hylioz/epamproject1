@@ -1,6 +1,6 @@
-package Basics;
+package basics;
 
-import Biulder.BuildCars;
+import biulder.BuildCars;
 import entities.Car;
 import entities.ElectricCar;
 import entities.FuelCar;

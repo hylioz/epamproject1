@@ -1,4 +1,4 @@
-import Basics.ElCarTest;
+import basics.ElCarTest;
 import entities.ElectricCar;
 import org.apache.log4j.Logger;
 import org.testng.Assert;

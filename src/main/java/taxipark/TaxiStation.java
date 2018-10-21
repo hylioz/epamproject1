@@ -1,8 +1,8 @@
-package TaxiPark;
+package taxipark;
 
-import Enums.SortEnum;
-import TaxiPark.Comporators.ElectricComporator;
-import TaxiPark.Comporators.FuelComporator;
+import enums.SortEnum;
+import taxipark.сomporators.ElectricComporator;
+import taxipark.сomporators.FuelComporator;
 import entities.Car;
 import entities.ElectricCar;
 import entities.FuelCar;

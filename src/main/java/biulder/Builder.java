@@ -1,7 +1,7 @@
-package Biulder;
+package biulder;
 
-import Enums.CarTypeEnum;
-import Enums.ManufacturerEnum;
+import enums.CarTypeEnum;
+import enums.ManufacturerEnum;
 
 import java.time.Year;
 

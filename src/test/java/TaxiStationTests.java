@@ -1,5 +1,5 @@
-import Basics.BasicCarTest;
-import TaxiPark.TaxiStation;
+import basics.BasicCarTest;
+import taxipark.TaxiStation;
 import entities.Car;
 import org.apache.log4j.Logger;
 import org.testng.Assert;

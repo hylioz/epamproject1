@@ -1,7 +1,7 @@
-package Basics;
+package basics;
 
-import Enums.SortEnum;
-import TaxiPark.Comporators.FuelComporator;
+import enums.SortEnum;
+import taxipark.сomporators.FuelComporator;
 import org.testng.annotations.BeforeMethod;
 
 abstract public class FuCarTest extends BasicCarTest {

@@ -1,4 +1,4 @@
-package Enums;
+package enums;
 
 /**
  * Enum of car manufacturers

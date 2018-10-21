@@ -1,5 +1,4 @@
-import Basics.FuCarTest;
-import TaxiPark.TaxiStation;
+import basics.FuCarTest;
 import entities.FuelCar;
 import org.apache.log4j.Logger;
 import org.testng.Assert;
