@@ -1,4 +1,4 @@
-package biulder;
+package builder;
 
 import entities.Car;
 import entities.ElectricCar;

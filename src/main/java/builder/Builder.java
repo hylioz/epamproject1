@@ -1,4 +1,4 @@
-package biulder;
+package builder;
 
 import enums.CarTypeEnum;
 import enums.ManufacturerEnum;

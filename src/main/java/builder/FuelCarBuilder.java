@@ -1,18 +1,18 @@
-package biulder;
+package builder;
 
 import enums.CarTypeEnum;
 import enums.ManufacturerEnum;
-import entities.ElectricCar;
+import entities.FuelCar;
 import org.apache.log4j.Logger;
 
 import java.time.Year;
 
 /**
- * Class to create a new object for the class ElectricCar
+ * Class to create a new object for the class FuelCar
  */
-public class ElectricCarBuilder implements Builder {
+public class FuelCarBuilder implements Builder {
 
-    private final static Logger LOGGER = Logger.getLogger(ElectricCarBuilder.class);
+    private final static Logger LOGGER = Logger.getLogger(FuelCarBuilder.class);
 
     private ManufacturerEnum manufacturer;
     private String model;
@@ -72,10 +72,10 @@ public class ElectricCarBuilder implements Builder {
     }
 
     /**
-     * Create new ElectricCar
+     * Create new FuelCar
      */
-    public ElectricCar getResult(String batteryType,int chargingTime, int lifetimeBattery) {
-        LOGGER.info("create new ElectricCar");
-        return new ElectricCar(manufacturer, model, bodyType, engineType, maxSpeed, price, year, numberOfSeats, automaticTransmission, batteryType, chargingTime, lifetimeBattery);
+    public FuelCar getResult(int fuelConsumption, int tankCapacity, String fuelType) {
+        LOGGER.info("create new FuelCar");
+        return new FuelCar(manufacturer, model, bodyType, engineType, maxSpeed, price, year, numberOfSeats, automaticTransmission, fuelConsumption, tankCapacity, fuelType);
     }
 }
