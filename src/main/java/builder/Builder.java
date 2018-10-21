@@ -1,4 +1,4 @@
-package builderr;
+package builder;
 
 import enums.CarTypeEnum;
 import enums.ManufacturerEnum;
