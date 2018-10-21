@@ -444,3 +444,44 @@
 2018-10-21 19:54:03 INFO  FuelCarBuilder:78 - create new FuelCar
 2018-10-21 19:54:03 INFO  Director:39 - build constructFuelCityCar
 2018-10-21 19:54:04 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:11:33 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 21:11:33 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:11:33 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 21:11:33 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:11:33 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 21:11:33 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:11:33 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 21:11:33 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:11:33 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 21:11:33 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:11:33 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 21:11:33 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:11:33 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 21:11:33 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 21:14:16 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 21:14:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:14:16 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 21:14:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:14:16 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 21:14:16 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:14:16 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 21:14:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:14:16 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 21:14:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:14:16 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 21:14:16 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:14:16 INFO  TaxiStation:47 - {begin method SearchBySpeed
+2018-10-21 21:14:16 INFO  TaxiStation:56 - end method SearchBySpeed}
+2018-10-21 21:17:09 INFO  Director:65 - build constructElectricSportsCar
+2018-10-21 21:17:09 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:17:09 INFO  Director:78 - build constructElectricCityCar
+2018-10-21 21:17:09 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:17:09 INFO  Director:91 - build constructElectricComfortCar
+2018-10-21 21:17:09 INFO  ElectricCarBuilder:78 - create new ElectricCar
+2018-10-21 21:17:09 INFO  Director:26 - build constructFuelSportsCar
+2018-10-21 21:17:09 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:17:09 INFO  Director:52 - build constructFuelComfortCar
+2018-10-21 21:17:09 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:17:09 INFO  Director:39 - build constructFuelCityCar
+2018-10-21 21:17:09 INFO  FuelCarBuilder:78 - create new FuelCar
+2018-10-21 21:17:09 INFO  TaxiStation:47 - {begin method SearchBySpeed

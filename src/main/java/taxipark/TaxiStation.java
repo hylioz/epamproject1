@@ -1,12 +1,12 @@
 package taxipark;
 
-import enums.SortEnum;
-import taxipark.сomporators.ElectricComporator;
-import taxipark.сomporators.FuelComporator;
 import entities.Car;
 import entities.ElectricCar;
 import entities.FuelCar;
+import enums.SortEnum;
 import org.apache.log4j.Logger;
+import taxipark.сomporators.ElectricComporator;
+import taxipark.сomporators.FuelComporator;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -45,7 +45,9 @@ public class TaxiStation {
 
     public static ArrayList<Car> SearchBySpeed(ArrayList<Car> cars, int min, int max) {
         LOGGER.info("{begin method SearchBySpeed");
-        ArrayList<Car> carSelection = new ArrayList<>();
+        if (min > max)
+            return null;
+            ArrayList<Car> carSelection = new ArrayList<>();
 
         for (Car car : cars) {
             if (car.getMaxSpeed() >= min && car.getMaxSpeed() <= max) {
@@ -59,7 +61,6 @@ public class TaxiStation {
 
     /**
      * @return collection sorted by consumption
-     *
      */
     public static ArrayList<Car> SortByFuelСonsumption(ArrayList<Car> cars) {
         LOGGER.info("{begin method SortByFuelConsumption");

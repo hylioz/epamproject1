@@ -24,4 +24,10 @@ public class TaxiStationTests extends BasicCarTest {
         result += cars.get(1).getManufacturer().toString();
         Assert.assertEquals("CITROENBMW", result);
     }
+    @Test
+
+    public void searchBySpeedTestIncorrect() {
+        ArrayList<Car> cars = TaxiStation.SearchBySpeed(carPool, 210, 180);
+        Assert.assertEquals(null, cars);
+    }
 }
