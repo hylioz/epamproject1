@@ -26,7 +26,7 @@ public class TaxiStationTests extends BasicCarTest {
     }
     @Test
 
-    public void searchBySpeedTestIncorrect() {
+    public void searchBySpeedIncorrectTest() {
         ArrayList<Car> cars = TaxiStation.SearchBySpeed(carPool, 210, 180);
         Assert.assertEquals(null, cars);
     }
